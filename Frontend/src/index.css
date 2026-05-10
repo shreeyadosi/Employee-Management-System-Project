@@ -1,0 +1,72 @@
+body {
+    background-color: #315ad5;
+    font-family: 'Poppins', sans-serif;
+    color: #E3FDFD;
+
+  }
+  
+  .container {
+    background-color: #4ea8e8;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .card {
+    background-color: #3578ca;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+    color: #F3FDE8;
+    font-family: 'Protest Riot', sans-serif;
+  }
+  
+  .table {
+    background-color: #354dd4;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    font-family:  "Space Grotesk", sans-serif;
+  }
+  
+  .btn {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .btn-primary {
+    background-color: #37b5b6;
+    border-color: #37b5b6;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .btn-primary:hover {
+    background-color: #279194;
+    border-color: #279194;
+  }
+  
+  .btn-warning {
+    background-color: #51f65c;
+    border-color: #71fc59;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .btn-warning:hover {
+    background-color: #40e100;
+    border-color: #13fd22;
+  }
+  
+  .btn-danger {
+    background-color: #dd5959;
+    border-color: rgb(236, 124, 124);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .btn-danger:hover {
+    background-color: #f03737;
+    border-color: #ec2e2e;
+  }
+  
+  .table-dark th, .table-dark td {
+    background-color: #f2f597;
+    color: #000000;
+  }
+  
